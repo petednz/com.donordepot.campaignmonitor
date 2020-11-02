@@ -1,7 +1,7 @@
 com.donordepot.campaignmonitor
 ==============================
 
-CiviCRM Extension to Sync CiviCRM Group Contacts with Campaingn Monitor List Subscribers.
+CiviCRM Extension to Sync CiviCRM Group Contacts with Campaign Monitor List Subscribers.
 
 Requirements
 ------------
